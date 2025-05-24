@@ -30,7 +30,7 @@ export async function execute(interaction) {
   // create GitHub Discussion (or issue)
   const gh = await octo.discussions.create({
     owner, repo,
-    category_id: /* fetch your category ID ahead of time */,
+    //category_id: 
     title: interaction.channel.name,
     body
   });
