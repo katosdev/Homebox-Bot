@@ -1,0 +1,6 @@
+[
+  {
+    "question": "How do I install Homebox?",
+    "answer": "Run `npm install -g homebox-cli` and then `homebox init`."
+  }
+]

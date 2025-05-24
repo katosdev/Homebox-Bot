@@ -1,0 +1,6 @@
+[
+  {
+    "keywords": ["error 500", "server error"],
+    "response": "A 500 usually means your Homebox service crashed—check `homebox logs` and restart."
+  }
+]
